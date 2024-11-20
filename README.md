@@ -1,6 +1,6 @@
 # Audacity Chapter Labels for Stormlight Archive: Graphic Audio
 
-This year I discovered the [Graphic Audio adaptations of the Stormlight Archives](https://www.graphicaudio.net/the-stormlight-archive-series-set.html).  I've thoroughly enjoyed them so far, though it has bugged me endlessly that the chapters are not properly marked.  Halfway through The Way of Kings I decided to toss the files into [Audacity](https://www.audacityteam.org/) and fix them myself.  I've since done this for Words of Radiance and Oathbringer as well.  Here are my label files if anyone is interested in them.
+This year I discovered the [Graphic Audio adaptations of the Stormlight Archives](https://www.graphicaudio.net/the-stormlight-archive-series-set.html).  I've thoroughly enjoyed them so far, though it has bugged me endlessly that the chapters are not marked to match the original texts.  Halfway through The Way of Kings I decided to toss the files into [Audacity](https://www.audacityteam.org/) and fix them myself.  I've since done this for Words of Radiance and Oathbringer as well.  Here are my label files if anyone is interested in them.
 
 To use these:
 
